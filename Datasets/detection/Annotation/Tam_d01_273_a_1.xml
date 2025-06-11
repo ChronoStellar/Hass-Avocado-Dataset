@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>./detection/Images</folder>
+  <filename>Tam_d01_273_a_1.jpg</filename>
+  <path>./detection/Images/Tam_d01_273_a_1.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+</annotation>

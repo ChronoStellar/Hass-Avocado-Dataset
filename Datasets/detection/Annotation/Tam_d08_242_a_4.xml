@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>./detection/Images</folder>
+  <filename>Tam_d08_242_a_4.jpg</filename>
+  <path>./detection/Images/Tam_d08_242_a_4.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>avocado</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>274</xmin>
+      <ymin>176</ymin>
+      <xmax>522</xmax>
+      <ymax>627</ymax>
+    </bndbox>
+  </object>
+</annotation>
